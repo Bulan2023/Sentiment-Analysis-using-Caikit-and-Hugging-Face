@@ -2,7 +2,7 @@
 
 ## Author : @CognitiveClass.AI
 
-## Mentee assigment from IBM Advance AI @ Infinite Learning Course completion of Natural Language Processing with Hugging Face Transformers
+## Mentee assigment from IBM Advance AI @ Infinite Learning Course completion of Sentiment Analysis using Caikit and Hugging Face
 
 ## Mentee Info
 
